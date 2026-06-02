@@ -26,7 +26,7 @@ app.use((req, res, next) => {
 
 // O(1) Instant Lookup Set
 const ALLOWED_TIMEZONES = new Set([
-    "Asia/Tokyo"
+    "Australia/Sydney", "Australia/Melbourne", "Australia/Brisbane", "Australia/Adelaide", "Australia/Perth", "Australia/Hobart", "Australia/Darwin"
 ]);
 
 // Raw URLs accompanied by their selection probability weights (Must total 1.0)
